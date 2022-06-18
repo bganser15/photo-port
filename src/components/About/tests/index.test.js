@@ -9,6 +9,7 @@ import "@testing-library/jest-dom/extend-expect";
 
 import About from '..';
 
+//cleanup utlility function
 afterEach(cleanup);
 
 describe('About component', () => {
